@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'Hello World From Bridgelabz';
+  imageUrl="../assets/logo.png";
 }
